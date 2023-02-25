@@ -1,4 +1,4 @@
-DS Project - Comcast Telecom Consumer Complaints Data Analysis
+Data Science Project - Comcast Telecom Consumer Complaints Data Analysis
 * Provided the trend chart for the number of complaints at monthly and daily granularity levels.
 * Provided a table with the frequency of complaint types.
 * Analyzed complaint types which are maximum for different domains (like around internet, network issues, or across any other) and categorized them for different complaint resolve status (open/closed). 
